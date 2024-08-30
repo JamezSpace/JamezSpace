@@ -20,7 +20,7 @@ I am a Software Developer but I introduce myself as a Full Web Stack Developer. 
 - NOSQL databases
 
 ## Contact Me?
-<a href="instagram.com/_just_a_dev_/">Instagram</a>
+<a href="https://instagram.com/_just_a_dev_/">Instagram</a>
 
 ## Fun Facts
 1. I'm that expert JavaScript dev who doesn't like React.

@@ -2,9 +2,8 @@
 I am a Software Developer but I introduce myself as a Full Web Stack Developer. I believe my repos would affirm that.
 
 ## Programming Languages I work with:
-- Python
 - Java
-- JavaScript
+- JavaScript / TypeScript
 
 ## Web Stacks I work with:
 - HTML5
@@ -12,6 +11,7 @@ I am a Software Developer but I introduce myself as a Full Web Stack Developer. 
 - Svelte
 
 ## Frameworks I work with:
+- Angular
 - ExpressJS
 - Java Spring Boot
 

@@ -4,7 +4,7 @@ I’m a **Full-Stack Web Developer and Software Systems Designer** specializing 
 
 I build maintainable, scalable web applications and backend systems with a strong focus on **clear architectural boundaries, domain-driven design, and effective communication between system components**.
 
-My approach goes beyond selecting frameworks or splitting applications into services. I focus on understanding **how systems behave as they grow**—how components communicate, how responsibilities are separated, how failures are handled, and how architecture can support long-term scalability without introducing unnecessary complexity.
+My approach goes beyond selecting frameworks or splitting applications into services. I focus on understanding **how systems behave as they grow**, how components communicate, how responsibilities are separated, how failures are handled, and how architecture can support long-term scalability without introducing unnecessary complexity.
 
 ---
 
@@ -16,7 +16,7 @@ My approach goes beyond selecting frameworks or splitting applications into serv
 
 ### Front-End Development
 
-* **Angular** — Primary framework
+* **Angular** (Primary framework)
 * **HTML5**, **CSS3**, **SCSS**, **Tailwind CSS**
 * Responsive and accessible user interfaces
 * Performance optimization and maintainable component architecture
@@ -114,7 +114,7 @@ Whether building a modular application or a distributed system, I aim to create 
 
 ## Beyond the Code
 
-1. I’m a JavaScript developer who proudly prefers **Angular over React**.
+1. Anyday, anytime, it's Angular ovr React for me.
 2. I enjoy thinking through the **boundaries, communication patterns, and trade-offs** behind complex systems.
 3. I believe good architecture is less about using the most patterns and more about choosing the **right level of complexity**.
 4. **Professionalism is assured — always.**
